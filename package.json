@@ -1,0 +1,11 @@
+{
+    "name": "med-kajeepan-back",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "start": "node google-sheets-api.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
