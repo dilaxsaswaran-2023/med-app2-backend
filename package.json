@@ -6,6 +6,9 @@
         "start": "node google-sheets-api.js"
     },
     "dependencies": {
-        "express": "^4.17.1"
+        "body-parser": "^1.20.2",
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "googleapis": "^137.1.0"
     }
 }
